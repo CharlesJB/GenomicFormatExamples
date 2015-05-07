@@ -1,0 +1,9 @@
+Package: GenomicFormatExamples
+Title: A collection of genomic file foramat demos
+Version: 0.1.0
+Authors@R: person("Charles", "Joly Beauparlant", role=c("aut", "cre"),
+    email="Charles.Joly-Beauparlant@crchul.ulaval.ca")
+Description: Demo of various common file formats to be used for demonstration purpose.
+Depends: R (>= 3.1.0)
+License: Artistic-2.0
+LazyData: true
